@@ -51,7 +51,7 @@ ortalama = kredileri_topla / krediler_toplami_for
 
 print("ortalama : ", ortalama)
 
-if ortalama < 50:
+if ortalama < 1:
     print("KALDINIZ!")
 else:
     print("BIR SONRAKİ DÖNEMDE BAŞARILAR :)")
