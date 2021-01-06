@@ -34,7 +34,6 @@ for i in range(ders_sayisi):
     toplam = 0
     for a in krediler:
         toplam = toplam + a
-        payda = toplam
 
 print("eklediğiniz dersler")
 print(ders_adlari)
